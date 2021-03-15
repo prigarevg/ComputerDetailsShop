@@ -1,1 +1,1 @@
-export const serverEntryPoint = 'https://detailsheroku.herokuapp.com/api';
+export const serverEntryPoint = 'https://computer-detail-shop-server.herokuapp.com/api';
